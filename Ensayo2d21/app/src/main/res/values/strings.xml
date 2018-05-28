@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Remindme</string>
+    <string name="Title">Title</string>
+    <string name="record">Record</string>
+    <string name="save">Save</string>
+    <string name="start">Start</string>
+    <string name="stop">Stop</string>
+    <string name="guardarRecuerdo">Guardar Recuerdo</string>
+    <string name="crearRecuerdo">Crear Recuerdo</string>
+
+</resources>
